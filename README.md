@@ -1,2 +1,2 @@
 # Segundo_dia
-descripción básca
+descripción básica
